@@ -149,7 +149,7 @@ section {
 
 .whitebcg2 {
     background-color: whitesmoke;
-    border-radius: 3%/6%; 
+    border-radius: 3%/8%; 
     border-left: 10px solid whitesmoke;
     border-right: 10px solid whitesmoke;
     border-top: 5px solid whitesmoke;
@@ -158,7 +158,7 @@ section {
 
 .whitebcg3 {
     background-color: whitesmoke;
-    border-radius: 3%/6%; 
+    border-radius: 3%/10%; 
     border-left: 10px solid whitesmoke;
     border-right: 10px solid whitesmoke;
     border-top: 5px solid whitesmoke;
